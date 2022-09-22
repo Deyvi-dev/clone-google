@@ -211,7 +211,7 @@ button:hover{
       width: calc(100vw - 40px);
     }
     
-    #search__content {
+    #search-content {
       width: calc(100vw - 40px);
     }
   }
