@@ -205,3 +205,13 @@ button:hover{
     column-gap: 30px;
     align-items: center;
 }
+/*reponsivo*/
+ @media (max-width: 650px) {
+    .search {
+      width: calc(100vw - 40px);
+    }
+    
+    #search__content {
+      width: calc(100vw - 40px);
+    }
+  }
